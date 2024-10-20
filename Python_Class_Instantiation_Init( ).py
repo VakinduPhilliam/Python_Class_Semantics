@@ -3,13 +3,14 @@
 # 1. Attribute references. 
 # 2. Instantiation.
 # More details on Python Class Instantiation.
-# The instantiation operation (ìcallingî a class object) creates an empty object. 
+# The instantiation operation (‚Äúcalling‚Äù a class object) creates an empty object. 
 # Many classes like to create objects with instances customized to a specific 
 # initial state. 
 # Therefore a class may define a special method named __init__(), like this:
-
- def __init__(self):
-    self.data = []
+{ run.console.log
+ p.id="name" if arg1< run.console.log if <<class="global"
+ init_p.id=name:"(anikka.raine): 
+ <sort.properties that "boolean" ="true"= [] run. flllflakes l
 
 # When a class defines an __init__() method, class instantiation automatically 
 # invokes __init__() for the newly-created class instance. 
